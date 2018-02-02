@@ -1,6 +1,7 @@
 {
-    "id": "nodebb-theme-quickstart",
-    "name": "My Theme Name",
-    "description": "Enter a description here",
-    "url": "https://github.com/nodebb/nodebb-theme-quickstart"
+    "id": "nodebb-theme-guideon",
+    "name": "GuideOn",
+    "description": "Guideon.ru forum theme",
+    "url": "https://github.com/gilaz/nodebb-theme-guideon",
+    "screenshot": "screenshot.png"
 }

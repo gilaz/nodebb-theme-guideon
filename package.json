@@ -1,10 +1,20 @@
 {
-  "name": "nodebb-theme-quickstart",
+  "name": "nodebb-theme-guideon",
   "version": "0.0.0",
-  "description": "Enter a description here",
+  "description": "Guideon.ru forum theme",
   "main": "theme.less",
-  "keywords": [
-
-  ],
-  "license": "MIT"
+  "keywords": [],
+  "license": "MIT",
+  "author": {
+    "name": "Rustam Gilyaziev",
+    "email": "gilaziev@gmail.com",
+    "url": "https://github.com/gilaz"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gilaz/nodebb-theme-guideon"
+  },
+  "bugs": {
+    "url": "https://github.com/gilaz/nodebb-theme-guideon/issues"
+  }
 }

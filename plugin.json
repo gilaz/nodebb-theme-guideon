@@ -1,9 +1,11 @@
 {
-	"id": "nodebb-theme-quickstart",
+	"id": "nodebb-theme-guideon",
 	"library": "./lib/theme.js",
 	"hooks": [
 		{
-			"hook": "filter:widgets.getAreas", "method": "defineWidgetAreas", "callbacked": true
+			"hook": "filter:widgets.getAreas",
+			"method": "defineWidgetAreas",
+			"callbacked": true
 		}
 	],
 	"scripts": [
